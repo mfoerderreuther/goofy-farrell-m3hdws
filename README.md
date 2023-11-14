@@ -1,10 +1,16 @@
-# Deno Starter
+# Fresh project
 
-This is a Deno project running on Docker in Codesandbox.
+Your new Fresh project is ready to go. You can follow the Fresh "Getting
+Started" guide here: https://fresh.deno.dev/docs/getting-started
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+### Usage
 
-## Resources
+Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+Then start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
